@@ -1,0 +1,71 @@
+
+
+#main {
+    max-width: 900px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#main2 {
+    max-width: fit-content;
+    height: fit-content ;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+option {
+    text-align: center;
+}
+
+input[type="text"],
+input[type="file"],
+textarea,
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+textarea {
+    height: 100%;
+}
+
+input[type="submit"] {
+    width: 100%;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#fild {
+    border: 1px solid black;
+}
+
+#viewnews {
+    text-align: start;
+}
+
+img {
+    width: 100px;
+    height: 70px;
+}
